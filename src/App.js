@@ -1,5 +1,6 @@
 import React from 'react';
 import List from './List';
+import './App.css';
 
 function App({store}) {
   //logic here to deconstruct store and pass appropriate calls to List
